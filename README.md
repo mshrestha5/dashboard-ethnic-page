@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![alt text](https://github.com/mshrestha5/dashboard-ethnic-page/blob/main/ethnicitypage.PNG?raw=true)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
