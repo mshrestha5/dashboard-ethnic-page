@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-9gakcf-option {
+  background-color: white !important;
+  color: black !important;
+}
